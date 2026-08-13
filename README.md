@@ -45,29 +45,6 @@ I enjoy working with **data analysis, business intelligence, SQL, dashboards, au
 
 ---
 
-## 📈 Data Analytics Journey
-
-```text
-Raw Data
-    ↓
-Data Cleaning
-    ↓
-SQL / Excel
-    ↓
-Data Analysis
-    ↓
-Power BI / Tableau
-    ↓
-Dashboards & Visualization
-    ↓
-Business Insights
-    ↓
-Better Decisions
-```
-
-I'm particularly interested in understanding **how data can be transformed into insights that support better decisions**.
-
----
 
 ## 🔥 Featured Projects
 

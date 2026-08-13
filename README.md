@@ -25,23 +25,73 @@ I enjoy working with **data analysis, business intelligence, SQL, dashboards, au
 
 ### 📊 Data Analytics & Business Intelligence
 
-`Excel` `Power BI` `Tableau` `SQL`
+<p align="left">
+  <a href="https://www.microsoft.com/en-us/microsoft-365/excel">
+    <img src="https://skillicons.dev/icons?i=excel" alt="Excel" height="45"/>
+  </a>
+  <a href="https://powerbi.microsoft.com/">
+    <img src="https://skillicons.dev/icons?i=powerbi" alt="Power BI" height="45"/>
+  </a>
+  <a href="https://www.tableau.com/">
+    <img src="https://skillicons.dev/icons?i=tableau" alt="Tableau" height="45"/>
+  </a>
+</p>
 
 ### 🗄️ Databases
 
-`MySQL` `PostgreSQL`
+<p align="left">
+  <a href="https://www.mysql.com/">
+    <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" height="45"/>
+  </a>
+  <a href="https://www.postgresql.org/">
+    <img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" height="45"/>
+  </a>
+</p>
 
-### 💻 Programming
+### 💻 Programming Languages
 
-`C` `C++` `Java` `Python`
+<p align="left">
+  <a href="https://www.cprogramming.com/">
+    <img src="https://skillicons.dev/icons?i=c" alt="C" height="45"/>
+  </a>
+  <a href="https://isocpp.org/">
+    <img src="https://skillicons.dev/icons?i=cpp" alt="C++" height="45"/>
+  </a>
+  <a href="https://www.java.com/">
+    <img src="https://skillicons.dev/icons?i=java" alt="Java" height="45"/>
+  </a>
+  <a href="https://www.python.org/">
+    <img src="https://skillicons.dev/icons?i=python" alt="Python" height="45"/>
+  </a>
+</p>
 
 ### 🌐 Web Development
 
-`HTML` `CSS`
+<p align="left">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+    <img src="https://skillicons.dev/icons?i=html" alt="HTML" height="45"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+    <img src="https://skillicons.dev/icons?i=css" alt="CSS" height="45"/>
+  </a>
+</p>
 
 ### ⚙️ Tools & Platforms
 
-`VS Code` `Android Studio` `n8n` `Figma`
+<p align="left">
+  <a href="https://code.visualstudio.com/">
+    <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" height="45"/>
+  </a>
+  <a href="https://developer.android.com/studio">
+    <img src="https://skillicons.dev/icons?i=androidstudio" alt="Android Studio" height="45"/>
+  </a>
+  <a href="https://n8n.io/">
+    <img src="https://skillicons.dev/icons?i=n8n" alt="n8n" height="45"/>
+  </a>
+  <a href="https://www.figma.com/">
+    <img src="https://skillicons.dev/icons?i=figma" alt="Figma" height="45"/>
+  </a>
+</p>
 
 ---
 

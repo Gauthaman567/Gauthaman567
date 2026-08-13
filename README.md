@@ -21,7 +21,7 @@
 
 ---
 
-## 🧑‍💻 About Me
+##  About Me
 
 I'm a **Computer Science Engineering student** passionate about transforming data into meaningful insights and building practical technology solutions.
 
@@ -41,7 +41,7 @@ I also enjoy programming, problem solving, and exploring AI-driven applications.
 
 ---
 
-# 🛠️ Tech Stack
+#  Tech Stack
 
 ### 📊 Data Analytics & Business Intelligence
 
@@ -86,7 +86,7 @@ I also enjoy programming, problem solving, and exploring AI-driven applications.
 
 ---
 
-# 📈 My Data Analytics Workflow
+#  My Data Analytics Workflow
 
 ```text
              RAW DATA
@@ -119,7 +119,7 @@ I also enjoy programming, problem solving, and exploring AI-driven applications.
 
 ---
 
-# 🚀 Featured Projects
+#  Featured Projects
 
 ## 💰 AI Personal Budget Assistant
 
@@ -145,7 +145,7 @@ A responsive web-based admission portal designed to provide students with inform
 
 ---
 
-# 📚 Currently Learning
+#  Currently Learning
 
 | Area                     | Focus                                    |
 | ------------------------ | ---------------------------------------- |
@@ -158,7 +158,7 @@ A responsive web-based admission portal designed to provide students with inform
 
 ---
 
-# 🏆 Certifications
+#  Certifications
 
 * 🎓 **NVIDIA** — Fundamentals of Deep Learning
 * 🤖 **Infosys** — Fundamentals of AI & ML
@@ -167,7 +167,7 @@ A responsive web-based admission portal designed to provide students with inform
 
 ---
 
-# 💼 Experience
+#  Experience
 
 ### 🎨 UI/UX Design Intern
 
@@ -183,7 +183,7 @@ Worked on responsive web interfaces using HTML and CSS and gained practical expe
 
 ---
 
-# 🎯 2026 Goals
+#  2026 Goals
 
 ```text
 📊 Master Data Analytics
@@ -205,7 +205,7 @@ Worked on responsive web interfaces using HTML and CSS and gained practical expe
 
 ---
 
-# 📊 GitHub Analytics
+#  GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Gauthaman567&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
@@ -218,7 +218,7 @@ Worked on responsive web interfaces using HTML and CSS and gained practical expe
 
 ---
 
-# 📌 What I'm Working Toward
+#  What I'm Working Toward
 
 > **Turning raw data into meaningful insights and ideas into practical solutions.**
 

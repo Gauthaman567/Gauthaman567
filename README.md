@@ -1,122 +1,86 @@
-# 👋 Hi, I'm Gauthaman P
+# 👋 Hi there, I'm Gauthaman P!
 
-### 📊 Aspiring Data Analyst | BI & Data Analytics Enthusiast | Problem Solver
+📊 **Aspiring Data Analyst | BI & Data Analytics Enthusiast | Problem Solver**
 
-I'm a **Computer Science Engineering student** passionate about transforming data into meaningful insights and building practical technology solutions.
-
-I enjoy working with **data analysis, business intelligence, SQL, dashboards, automation, and AI-driven applications**. My goal is to continuously improve my analytical and technical skills while building projects that solve real-world problems.
-
----
-
-## 🚀 About Me
-
-* 🎓 B.E. Computer Science Engineering — Sri Ramakrishna Engineering College
-* 📊 Focused on **Data Analytics & Business Intelligence**
-* 🧠 Interested in **Data Analysis, AI, Automation & Decision Making**
-* 💻 Practicing problem solving with **C, C++, Java & SQL**
-* 📈 Building dashboards and analytical solutions using **Excel, Power BI & Tableau**
-* ⚙️ Exploring workflow automation with **n8n**
-* 🔍 Currently strengthening my skills in **SQL, Data Visualization & Analytics**
-* 🎯 Preparing for **campus placements and Data/Technology roles**
+🎓 Computer Science Engineering Student at **Sri Ramakrishna Engineering College**
+📈 Passionate about **Data Analytics, Business Intelligence & Data Visualization**
+🤖 Interested in **AI, Automation & Data-Driven Solutions**
+💡 I enjoy transforming raw data into **meaningful insights and practical solutions**
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technologies & Tools
 
-### 📊 Data Analytics & Business Intelligence
+### 📊 Data Analytics & BI
 
 <p align="left">
-  <a href="https://www.microsoft.com/en-us/microsoft-365/excel">
-    <img src="https://skillicons.dev/icons?i=excel" alt="Excel" height="45"/>
-  </a>
-  <a href="https://powerbi.microsoft.com/">
-    <img src="https://skillicons.dev/icons?i=powerbi" alt="Power BI" height="45"/>
-  </a>
-  <a href="https://www.tableau.com/">
-    <img src="https://skillicons.dev/icons?i=tableau" alt="Tableau" height="45"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=excel" height="45" alt="Excel"/>
+  <img src="https://skillicons.dev/icons?i=powerbi" height="45" alt="Power BI"/>
+  <img src="https://skillicons.dev/icons?i=tableau" height="45" alt="Tableau"/>
 </p>
 
 ### 🗄️ Databases
 
 <p align="left">
-  <a href="https://www.mysql.com/">
-    <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" height="45"/>
-  </a>
-  <a href="https://www.postgresql.org/">
-    <img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" height="45"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=mysql" height="45" alt="MySQL"/>
+  <img src="https://skillicons.dev/icons?i=postgresql" height="45" alt="PostgreSQL"/>
 </p>
 
-### 💻 Programming Languages
+### 💻 Programming
 
 <p align="left">
-  <a href="https://www.cprogramming.com/">
-    <img src="https://skillicons.dev/icons?i=c" alt="C" height="45"/>
-  </a>
-  <a href="https://isocpp.org/">
-    <img src="https://skillicons.dev/icons?i=cpp" alt="C++" height="45"/>
-  </a>
-  <a href="https://www.java.com/">
-    <img src="https://skillicons.dev/icons?i=java" alt="Java" height="45"/>
-  </a>
-  <a href="https://www.python.org/">
-    <img src="https://skillicons.dev/icons?i=python" alt="Python" height="45"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=c" height="45" alt="C"/>
+  <img src="https://skillicons.dev/icons?i=cpp" height="45" alt="C++"/>
+  <img src="https://skillicons.dev/icons?i=java" height="45" alt="Java"/>
+  <img src="https://skillicons.dev/icons?i=python" height="45" alt="Python"/>
 </p>
 
-### 🌐 Web Development
+### 🌐 Web & Development
 
 <p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-    <img src="https://skillicons.dev/icons?i=html" alt="HTML" height="45"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-    <img src="https://skillicons.dev/icons?i=css" alt="CSS" height="45"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=html" height="45" alt="HTML"/>
+  <img src="https://skillicons.dev/icons?i=css" height="45" alt="CSS"/>
+  <img src="https://skillicons.dev/icons?i=androidstudio" height="45" alt="Android Studio"/>
+  <img src="https://skillicons.dev/icons?i=vscode" height="45" alt="VS Code"/>
 </p>
 
-### ⚙️ Tools & Platforms
+### ⚙️ Automation & Design
 
 <p align="left">
-  <a href="https://code.visualstudio.com/">
-    <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" height="45"/>
-  </a>
-  <a href="https://developer.android.com/studio">
-    <img src="https://skillicons.dev/icons?i=androidstudio" alt="Android Studio" height="45"/>
-  </a>
-  <a href="https://n8n.io/">
-    <img src="https://skillicons.dev/icons?i=n8n" alt="n8n" height="45"/>
-  </a>
-  <a href="https://www.figma.com/">
-    <img src="https://skillicons.dev/icons?i=figma" alt="Figma" height="45"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=n8n" height="45" alt="n8n"/>
+  <img src="https://skillicons.dev/icons?i=figma" height="45" alt="Figma"/>
 </p>
 
 ---
 
+## 📊 Data Analytics Focus
 
-## 🔥 Featured Projects
+**Data Cleaning → SQL → Data Analysis → Visualization → Dashboards → Business Insights**
+
+I'm currently focused on developing practical skills in **Excel, SQL, Power BI, Tableau, MySQL and PostgreSQL**, while exploring automation with **n8n**.
+
+---
+
+## 🚀 Projects
 
 ### 💰 AI Personal Budget Assistant
 
-An AI-driven personal finance application designed to help users:
+A personal finance application designed to help users:
 
-* Track expenses
-* Categorize spending
-* Manage budgets
+* Track and categorize expenses
+* Manage personal budgets
 * Analyze spending patterns
 * Generate recommendations for better savings
 
-**Focus:** Data Analysis • Finance • AI • Decision Support
+**Tech:** Python • Flask • MySQL • Plotly • Data Analysis
 
 ---
 
 ### 🧠 AI-Based Alzheimer Detection & Health Support System
 
-An AI-focused project designed to analyze relevant health data and provide insights that can assist with early detection and proactive monitoring.
+An AI-focused healthcare project designed to analyze relevant health data and provide insights that can support early detection and proactive monitoring.
 
-**Focus:** AI • Data • Healthcare • Predictive Insights
+**Tech:** AI/ML • Data Analysis • Healthcare
 
 ---
 
@@ -124,7 +88,32 @@ An AI-focused project designed to analyze relevant health data and provide insig
 
 A responsive web-based admission portal designed to provide students with information and an intuitive online admission experience.
 
-**Focus:** HTML • CSS • UI/UX
+**Tech:** HTML • CSS • UI/UX
+
+---
+
+## 💼 Experience
+
+### 🎨 UI/UX Design Intern — Webgen Tech Solution
+
+**June 2025**
+
+Worked on wireframes, prototypes and user-focused interface designs using **Figma**, while collaborating with the design team.
+
+### 💻 Front-End Developer Intern — BrainerySpot Technology Pvt. Ltd.
+
+**December 2025**
+
+Worked on responsive web interfaces using **HTML & CSS** and gained practical experience converting design layouts into functional web pages.
+
+---
+
+## 🏆 Certifications
+
+* 🟢 **NVIDIA** — Fundamentals of Deep Learning
+* 🔵 **Infosys** — Fundamentals of AI & ML
+* 🔵 **HP** — AI for Beginners
+* 📊 **LinkedIn** — Excel Essential Training
 
 ---
 
@@ -156,76 +145,40 @@ A responsive web-based admission portal designed to provide students with inform
 
 ---
 
-## 🏆 Certifications
-
-* 🎓 NVIDIA — Fundamentals of Deep Learning
-* 🤖 Infosys — Fundamentals of AI & ML
-* 🧠 HP — AI for Beginners
-* 📊 LinkedIn — Excel Essential Training
-
----
-
-## 💼 Experience
-
-### UI/UX Design Intern — Webgen Tech Solution
-
-**June 2025**
-
-Worked on wireframes, prototypes and user-focused interface designs using Figma while collaborating with the design team.
-
-### Front-End Developer Intern — BrainerySpot Technology Pvt. Ltd.
-
-**December 2025**
-
-Worked on responsive web interfaces using HTML and CSS and gained practical experience converting designs into functional web components.
-
----
-
 ## 🎯 2026 Goals
 
-* 📊 Become highly proficient in Data Analytics
-* 🧮 Master SQL for real-world analytical problems
-* 📈 Build professional Power BI & Tableau dashboards
-* 🗄️ Strengthen MySQL & PostgreSQL skills
-* ⚙️ Build useful automation workflows using n8n
-* 🧠 Improve DSA and problem-solving skills
-* 🚀 Build and publish more data-driven projects
-* 💼 Secure a strong campus placement opportunity
+* 📊 Become job-ready in **Data Analytics**
+* 🧮 Master **SQL & Database Analysis**
+* 📈 Build professional **Power BI & Tableau dashboards**
+* 🗄️ Strengthen **MySQL & PostgreSQL**
+* ⚙️ Build useful automation workflows using **n8n**
+* 🧠 Improve **DSA & problem-solving**
+* 🚀 Build and publish more **data-driven projects**
+* 💼 Secure a strong **campus placement**
 
 ---
 
-## 📊 GitHub Stats
+## 🤝 Let's Connect!
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 🤝 Let's Connect
-
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/gauthaman-p">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Gauthaman%20P-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:gautham20122005@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
+## 💡 Fun Fact
+
+> I enjoy turning **raw data into clear insights** and continuously learning new technologies to solve real-world problems.
+
+---
+
 <p align="center">
-  <b>📊 Turning Data into Insights • 💻 Turning Ideas into Solutions</b>
+  📊 <b>Data → Insights → Decisions</b>
 </p>
 
 <p align="center">

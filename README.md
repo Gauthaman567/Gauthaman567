@@ -14,9 +14,9 @@
 ### 📊 Data Analytics & BI
 
   <p align="left">
-<img src="https://skillicons.dev/icons?i=excel" height="45" alt="Excel"/>
-<img src="https://skillicons.dev/icons?i=powerbi" height="45" alt="Power BI"/>
-<img src="https://skillicons.dev/icons?i=tableau" height="45" alt="Tableau"/>
+<img src="https://skillicons.dev/icons?i=excel" alt="Excel" height="45" style="display:inline-block; margin-right: 5px;"/>
+  <img src="https://skillicons.dev/icons?i=powerbi" alt="Power BI" height="45" style="display:inline-block; margin-right: 5px;"/>
+  <img src="https://skillicons.dev/icons?i=tableau" alt="Tableau" height="45" style="display:inline-block;"/>
 </p>
 
 ### 🗄️ Databases

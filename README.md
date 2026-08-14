@@ -13,10 +13,10 @@
 
 ### 📊 Data Analytics & BI
 
-  <p align="center">
-<img src="https://cdn.simpleicons.org/microsoftexcel" height="45" alt="Microsoft Excel"/>
-<img src="https://cdn.simpleicons.org/powerbi" height="45" alt="Power BI"/>
-<img src="https://cdn.simpleicons.org/tableau" height="45" alt="Tableau"/>
+  <p align="left">
+<img src="https://skillicons.dev/icons?i=excel" height="45" alt="Excel"/>
+<img src="https://skillicons.dev/icons?i=powerbi" height="45" alt="Power BI"/>
+<img src="https://skillicons.dev/icons?i=tableau" height="45" alt="Tableau"/>
 </p>
 
 ### 🗄️ Databases

@@ -14,9 +14,20 @@
 ### 📊 Data Analytics & BI
 
   <p align="left">
-  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" alt="Power BI" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
+  <!-- Excel -->
+  <span style="display:inline-block; background-color:#1e1e2e; padding:12px; border-radius:12px; margin-right:6px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" width="30" height="30" alt="Excel" />
+  </span>
+  
+  <!-- Power BI -->
+  <span style="display:inline-block; background-color:#1e1e2e; padding:12px; border-radius:12px; margin-right:6px;">
+    <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" width="30" height="30" alt="Power BI" />
+  </span>
+
+  <!-- Tableau -->
+  <span style="display:inline-block; background-color:#1e1e2e; padding:12px; border-radius:12px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" width="30" height="30" alt="Tableau" />
+  </span>
 </p>
 
 ### 🗄️ Databases

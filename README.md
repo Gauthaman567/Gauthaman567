@@ -14,9 +14,9 @@
 ### 📊 Data Analytics & BI
 
   <p align="center">
-  <img src="https://cdn.simpleicons.org/microsoftexcel" height="45" alt="Microsoft Excel"/>
-  <img src="https://cdn.simpleicons.org/powerbi" height="45" alt="Power BI"/>
-  <img src="https://cdn.simpleicons.org/tableau" height="45" alt="Tableau"/>
+ img src="https://cdn.simpleicons.org/microsoftexcel" height="45" alt="Microsoft Excel"/>
+<img src="https://cdn.simpleicons.org/powerbi" height="45" alt="Power BI"/>
+<img src="https://cdn.simpleicons.org/tableau" height="45" alt="Tableau"/>
 </p>
 
 ### 🗄️ Databases

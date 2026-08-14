@@ -14,9 +14,9 @@
 ### 📊 Data Analytics & BI
 
   <p align="left">
-  <img src="https://img.shields.io/badge/-Excel-18171B?style=for-the-badge&logo=microsoftexcel&logoColor=217346" height="40" alt="Excel" />
-  <img src="https://img.shields.io/badge/-Power_BI-18171B?style=for-the-badge&logo=powerbi&logoColor=F2C811" height="40" alt="Power BI" />
-  <img src="https://img.shields.io/badge/-Tableau-18171B?style=for-the-badge&logo=tableau&logoColor=E97627" height="40" alt="Tableau" />
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" height="40" alt="Excel" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" height="40" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" height="40" alt="Tableau" />
 </p>
 
 ### 🗄️ Databases
